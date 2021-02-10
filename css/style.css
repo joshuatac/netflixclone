@@ -5,6 +5,17 @@
 	--light-color: #f4f4f4;
 }
 
+.bottom-footer{
+	display:flex;
+	justify-content:center;
+	align-content:center;
+	background:#fff;
+	color:#000;
+	text-align:center;
+	font-weight:bold;
+	font-size:1.8rem;
+}
+
 * {
 	box-sizing: border-box;
 	margin: 0;
@@ -61,17 +72,7 @@ img {
 	box-shadow: inset 120px 100px 250px #000000, inset -120px -100px 250px #000000;
 }
 
-.bottom-footer{
-	display:flex;
-	justify-content:center;
-	align-content:center;
-	background:#fff;
-	color:#000;
-	text-align:center;
-	font-weight:bold;
-	font-size:1.8rem;
-	
-}
+
 
 .showcase-top {
 	position: relative;
